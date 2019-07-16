@@ -52,6 +52,10 @@
     font-size: 0.7291666666666666VW;
 }
 
+.itemNav:hover {
+    color: #998675;
+}
+
 .headerTextWrap {
     width: 86.375VW;
     text-align: center;
@@ -327,6 +331,7 @@
     background: none;
     font-size: 0.7291666666666666VW;
     color: rgba(140, 140, 140, 255);
+    border-radius: 0.26041666666666663VW;
 }
 .b-nav-tab:last-child {
     margin-right: 0;
